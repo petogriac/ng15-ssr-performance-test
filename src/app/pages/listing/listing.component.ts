@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, OnDestroy, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, OnDestroy, OnInit, TrackByFunction } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import * as data from '../../../data.json';
 import { ArticleItemComponent } from '../../components/article-item/article-item.component';
@@ -19,6 +19,8 @@ export class ListingComponent implements OnInit, OnDestroy {
   protected data = new BehaviorSubject<any | undefined>(undefined);
   protected listDelay?: number;
   private subscription?: Subscription;
+
+  protected trackFn: TrackByFunction<any> = (i, e: {id: string}) => e.id ;
 
   constructor(private route: ActivatedRoute) {
   }

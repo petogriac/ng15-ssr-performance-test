@@ -7,7 +7,7 @@
   <app-filter [subcategory]="listData.filter.subCategory"></app-filter>
 
   <div class="items">
-    <a app-article-item *ngFor="let article of listData.content; let first = first"
+    <a app-article-item *ngFor="let article of listData.content; let first = first; trackBy: trackFn"
       routerLink="/d/{{article.id}}"
       [isFirst]="first"
       [title]="article.common.title"
