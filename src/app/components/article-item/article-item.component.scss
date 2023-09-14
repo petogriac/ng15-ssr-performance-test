@@ -1,0 +1,29 @@
+@import 'src/responsivity';
+
+:host {
+  display: block;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid lightgray;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+
+  @include lg {
+    display: flex;
+    height: 200px;
+  }
+
+  img {
+    width: 100%;
+    height: 150px;
+    max-height: 150px;
+    object-fit: cover;
+
+    @include lg {
+      width: 200px;
+      margin-right: 20px;
+    }
+  }
+}

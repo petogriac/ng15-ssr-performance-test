@@ -1,0 +1,2 @@
+Last visited articles:
+<span *ngFor="let item of historyService.history; let last = last">{{item}} <span *ngIf="!last">, </span></span>

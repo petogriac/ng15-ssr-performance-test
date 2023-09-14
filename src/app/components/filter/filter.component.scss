@@ -1,0 +1,18 @@
+@import "src/responsivity";
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@include lg {
+  form {
+    flex-direction: row;
+    justify-content: space-between;
+
+    input {
+      flex: 1;
+    }
+  }
+}

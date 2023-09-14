@@ -1,0 +1,19 @@
+<ng-container *ngIf="(data | async) as listData">
+  <h1>Listing {{listDelay}}</h1>
+  <p>{{listData.content[0].common.title + ' ' + listData.content[1].common.title}}</p>
+
+  <app-history></app-history>
+
+  <app-filter [subcategory]="listData.filter.subCategory"></app-filter>
+
+  <div class="items">
+    <a app-article-item *ngFor="let article of listData.content; let first = first"
+      routerLink="/d/{{article.id}}"
+      [isFirst]="first"
+      [title]="article.common.title"
+      [description]="article.common.description"
+      [image]="article.image.link"
+      [id]="article.id"
+    ></a>
+  </div>
+</ng-container>

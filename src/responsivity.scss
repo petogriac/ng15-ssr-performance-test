@@ -1,0 +1,7 @@
+$lg: 970px;
+
+@mixin lg {
+  @media (min-width: $lg) {
+    @content;
+  }
+}

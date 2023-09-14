@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/ng15-ssr-performance-test",
+            "outputPath": "dist/ng15-ssr-performance-test/browser",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -97,6 +97,60 @@
             ],
             "scripts": []
           }
+        },
+        "server": {
+          "builder": "@angular-devkit/build-angular:server",
+          "options": {
+            "outputPath": "dist/ng15-ssr-performance-test/server",
+            "main": "server.ts",
+            "tsConfig": "tsconfig.server.json",
+            "inlineStyleLanguage": "scss"
+          },
+          "configurations": {
+            "production": {
+              "outputHashing": "media"
+            },
+            "development": {
+              "optimization": false,
+              "sourceMap": true,
+              "extractLicenses": false,
+              "vendorChunk": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve-ssr": {
+          "builder": "@nguniversal/builders:ssr-dev-server",
+          "configurations": {
+            "development": {
+              "browserTarget": "ng15-ssr-performance-test:build:development",
+              "serverTarget": "ng15-ssr-performance-test:server:development"
+            },
+            "production": {
+              "browserTarget": "ng15-ssr-performance-test:build:production",
+              "serverTarget": "ng15-ssr-performance-test:server:production"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "prerender": {
+          "builder": "@nguniversal/builders:prerender",
+          "options": {
+            "routes": [
+              "/"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "ng15-ssr-performance-test:build:production",
+              "serverTarget": "ng15-ssr-performance-test:server:production"
+            },
+            "development": {
+              "browserTarget": "ng15-ssr-performance-test:build:development",
+              "serverTarget": "ng15-ssr-performance-test:server:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }

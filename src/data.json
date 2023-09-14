@@ -1,0 +1,2114 @@
+{
+  "content": [
+    {
+      "id": 351002,
+      "path": "/d/07-wo-ka-anlegerwohnung/stm-8010/p-351002",
+      "shop": "MARKPLATZ",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "PRIVATE",
+          "name": "Privat"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "3 Zimmer Wohnung mit Garage",
+        "description": "Lorem ipsum",
+        "location": {
+          "zip": "8010",
+          "subMunicipality": null,
+          "municipality": "Graz",
+          "district": null,
+          "subCountry": "Steiermark",
+          "subCountryId": "35183:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 47.0708678,
+          "longitude": 15.4382786,
+          "street": "Feuertreppe",
+          "houseNumber": "2",
+          "displayText": "8010 Graz",
+          "level": "MUNICIPALITY"
+        },
+        "price": {
+          "priceType": null,
+          "price": 250000.0,
+          "oldPrice": 250000.0,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 250000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 75.0,
+          "groundAreaSize": null,
+          "livingSpace": 75.0
+        },
+        "roomsCount": 3.0,
+        "section": {
+          "id": "INVEST_APPARTMENT",
+          "name": "Anlegerwohnung"
+        }
+      },
+      "metaInformation": {
+        "created": "2023-09-07T10:27:39.761Z",
+        "lastModified": "2023-09-07T10:29:48.477Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": null,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/859/23281864a67a4673847c1209c1f75be9/medium-jpeg/bazar_img_011bb8a9-497b-4dcc-835c-e846bf0cfa80-351002.jpeg",
+        "processed": {
+          "title": "bazar_img_011bb8a9-497b-4dcc-835c-e846bf0cfa80-351002",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "859/23281864a67a4673847c1209c1f75be9"
+        }
+      },
+      "owner": {
+        "certified": false,
+        "trusted": false
+      },
+      "transient": null
+    },
+    {
+      "id": 345751,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184450?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184450",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 497000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 497000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 49.28,
+          "groundAreaSize": null,
+          "livingSpace": 49.28
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:13.285Z",
+        "lastModified": "2023-08-23T15:15:35.941Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/285/35325dd7b2dd45ef9f8cc84bc33ac1de/medium-jpeg/httpeostoprealatexportbpdb10115875037a2308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb10115875037a2308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "285/35325dd7b2dd45ef9f8cc84bc33ac1de"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345753,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184452?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184452",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 489000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 489000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 51.65,
+          "groundAreaSize": null,
+          "livingSpace": 51.65
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:14.866Z",
+        "lastModified": "2023-08-23T15:15:38.413Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/423/a317bf4b549a46d18a595f4c4419f882/medium-jpeg/httpeostoprealatexportbpdb1011587534fd2308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011587534fd2308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "423/a317bf4b549a46d18a595f4c4419f882"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345756,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184464?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184464",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 479000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 479000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 51.62,
+          "groundAreaSize": null,
+          "livingSpace": 51.62
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:16.353Z",
+        "lastModified": "2023-08-23T15:15:39.596Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/300/8d44675e223c4b0c82a033392dcf5c04/medium-jpeg/httpeostoprealatexportbpdb101158753dc72308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101158753dc72308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "300/8d44675e223c4b0c82a033392dcf5c04"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345755,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184462?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184462",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 499000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 499000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 49.39,
+          "groundAreaSize": null,
+          "livingSpace": 49.39
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:16.269Z",
+        "lastModified": "2023-08-23T15:15:40.639Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/250/a75fd2850ee7452ba4b48236ee64aed0/medium-jpeg/httpeostoprealatexportbpdb1011587511952308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011587511952308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "250/a75fd2850ee7452ba4b48236ee64aed0"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345754,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184446?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184446",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 498000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 498000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 49.3,
+          "groundAreaSize": null,
+          "livingSpace": 49.3
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:15.083Z",
+        "lastModified": "2023-08-23T15:15:39.118Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/140/4b17ff5c360849289394268e304fcb44/medium-jpeg/httpeostoprealatexportbpdb101158754b1b2308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101158754b1b2308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "140/4b17ff5c360849289394268e304fcb44"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345750,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184444?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184444",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 497000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 497000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 49.55,
+          "groundAreaSize": null,
+          "livingSpace": 49.55
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:13.042Z",
+        "lastModified": "2023-08-23T15:15:37.074Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/192/14152d8f2f784cf085d20cb5eae5b264/medium-jpeg/httpeostoprealatexportbpdb101158754b1b2308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101158754b1b2308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "192/14152d8f2f784cf085d20cb5eae5b264"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345757,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184484?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184484",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 499000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 499000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 51.63,
+          "groundAreaSize": null,
+          "livingSpace": 51.63
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:19.402Z",
+        "lastModified": "2023-08-23T15:15:43.628Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/461/a9e7e04e333a43cea3fc98882704c08b/medium-jpeg/httpeostoprealatexportbpdb10115875028d2308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb10115875028d2308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "461/a9e7e04e333a43cea3fc98882704c08b"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345759,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184501?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184501",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "THE FUSION - Enjoy the Unexpected",
+        "description": "(test) (test)Wir entführen Sie in eine geheimnisvolle Welt voller Überraschungen, die mit gelungenen Kompositionen aus Tradition und Moderne, Klassischem und Neuem, Rückzug und Weitblick fasziniert. Direkt am Naschmarkt vereint THE FUSION eindrucksvo",
+        "location": {
+          "zip": "1040",
+          "subMunicipality": "Wieden",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1923144,
+          "longitude": 16.3713671,
+          "street": "Kettenbrückengasse",
+          "houseNumber": null,
+          "displayText": "1040 Wieden",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 499000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 499000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 50.72,
+          "groundAreaSize": null,
+          "livingSpace": 50.72
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:22.244Z",
+        "lastModified": "2023-08-23T15:15:45.996Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/099/2b171951eac84646931128a186318d9e/medium-jpeg/httpeostoprealatexportbpdb1011587541d12308180919.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011587541d12308180919",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "099/2b171951eac84646931128a186318d9e"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345764,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184521?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184521",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Exklusive Wohnung im noblen 19. Bezirk",
+        "description": "(test) (test)Zum Verkauf gelangt eine ca. 215 m² große Wohnung mit Terrasse und Grünfläche. Die Wohnung befindet sich in Grinzing, einem beliebten Stadtteil des noblen 19. Bezirks. Die Wohnung verfügt über 2 Eingänge und insgesamt 5 Zimmer, 3 Bäder u",
+        "location": {
+          "zip": "1190",
+          "subMunicipality": "Döbling",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.2612506,
+          "longitude": 16.328471,
+          "street": "Cobenzlgasse",
+          "houseNumber": null,
+          "displayText": "1190 Döbling",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 0.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 0.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 215.0,
+          "groundAreaSize": null,
+          "livingSpace": 215.0
+        },
+        "roomsCount": 5.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:24.802Z",
+        "lastModified": "2023-08-23T15:16:06.191Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": true,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/596/7d7ff545585843e48253294c4c06610f/medium-jpeg/httpeostoprealatexportbpdb1011595852022203211253.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011595852022203211253",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "596/7d7ff545585843e48253294c4c06610f"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345766,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184527?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184527",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Dachgeschosswohnung mit Pool im noblen 19. Bezirk",
+        "description": "(test) (test)Zum Verkauf gelangt eine ca. 235 m² große Wohnung großen Terrassenflächen, sowie einem Pool auf der Dachterrasse. Die Wohnung befindet sich in Grinzing, einem beliebten Stadtteil des noblen 19. Bezirks. Die Wohnung verfügt über 2 Eingäng",
+        "location": {
+          "zip": "1190",
+          "subMunicipality": "Döbling",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.2612506,
+          "longitude": 16.328471,
+          "street": "Cobenzlgasse",
+          "houseNumber": null,
+          "displayText": "1190 Döbling",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 0.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 0.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 236.87,
+          "groundAreaSize": null,
+          "livingSpace": 236.87
+        },
+        "roomsCount": 5.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:26.896Z",
+        "lastModified": "2023-08-23T15:16:11.403Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": true,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/996/7d4557b926fa4262b298dcb66602ae84/medium-jpeg/httpeostoprealatexportbpdb10116059038f2305250930.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb10116059038f2305250930",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "996/7d4557b926fa4262b298dcb66602ae84"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345807,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184681?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184681",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Tolle Wohnung mit Terrassen im noblen 19. Bezirk",
+        "description": "(test) (test)Zum Verkauf gelangt eine ca. 98 m² große Wohnung mit zwei schönen Terrassen. Die Wohnung befindet sich in Grinzing, einem beliebten Stadtteil des noblen 19. Bezirks. Durch einen Vorraum lassen sich alle Zimmer zentral begehen. Dieser ver",
+        "location": {
+          "zip": "1190",
+          "subMunicipality": "Döbling",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.2612506,
+          "longitude": 16.328471,
+          "street": "Cobenzlgasse",
+          "houseNumber": null,
+          "displayText": "1190 Döbling",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 0.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 0.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 98.0,
+          "groundAreaSize": null,
+          "livingSpace": 98.0
+        },
+        "roomsCount": 3.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:54.262Z",
+        "lastModified": "2023-08-23T15:18:37.557Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": true,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/229/416f2e7a52e346b1b137ea978da3f538/medium-jpeg/httpeostoprealatexportbpdb101170913ff02308071022.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101170913ff02308071022",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "229/416f2e7a52e346b1b137ea978da3f538"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345805,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184665?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184665",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Moderne 2 Zimmerwohnung in Ruhelage und Fußnähe zur Alten Donau",
+        "description": "(test) (test)Zum Verkauf steht eine hochwertige 2 Zimmerneubauwohnung in der Stephensongasse. Die sich im ersten Liftstock befindende Wohnung verfügt über ca. 56 m² Wohnfläche und teilt sich wie folgt auf: Nach Betreten der Wohnung befinden Sie sich ",
+        "location": {
+          "zip": "1210",
+          "subMunicipality": "Floridsdorf",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.279815,
+          "longitude": 16.4121346,
+          "street": "Stephensongasse",
+          "houseNumber": null,
+          "displayText": "1210 Floridsdorf",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 319000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 319000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 56.5,
+          "groundAreaSize": null,
+          "livingSpace": 56.5
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:50.886Z",
+        "lastModified": "2023-08-23T15:19:54.063Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/916/8d0591a50286493faf93278d35cd01be/medium-jpeg/httpeostoprealatexportbpdb1011708538e82307240834.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011708538e82307240834",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "916/8d0591a50286493faf93278d35cd01be"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345767,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184528?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184528",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "STOCK IM WEG - Modernes Wohnen zwischen Stadt und Grün!",
+        "description": "(test) (test)Unweit des Lainzer Tiergartens entsteht das zukunftsweisende Neubauprojekt \"STOCK IM WEG“ mit 41 hochwertigen Eigentumswohnungen, die individuellen Wohnbedürfnissen gerecht werden. Erschlossen über drei separate Stiegenhäuser werden auf",
+        "location": {
+          "zip": "1130",
+          "subMunicipality": "Hietzing",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.178541,
+          "longitude": 16.2529858,
+          "street": "Stock im Weg",
+          "houseNumber": null,
+          "displayText": "1130 Hietzing",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 419000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 419000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 61.25,
+          "groundAreaSize": null,
+          "livingSpace": 61.25
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:27.179Z",
+        "lastModified": "2023-08-23T15:16:01.860Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/205/76ef994e4990407cbb1ec96af80c18fc/medium-jpeg/httpeostoprealatexportbpdb101161957bde2308070647.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101161957bde2308070647",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "205/76ef994e4990407cbb1ec96af80c18fc"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345769,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184551?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184551",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "STOCK IM WEG - Modernes Wohnen zwischen Stadt und Grün!",
+        "description": "(test) (test)Unweit des Lainzer Tiergartens entsteht das zukunftsweisende Neubauprojekt \"STOCK IM WEG“ mit 41 hochwertigen Eigentumswohnungen, die individuellen Wohnbedürfnissen gerecht werden. Erschlossen über drei separate Stiegenhäuser werden auf",
+        "location": {
+          "zip": "1130",
+          "subMunicipality": "Hietzing",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.178541,
+          "longitude": 16.2529858,
+          "street": "Stock im Weg",
+          "houseNumber": null,
+          "displayText": "1130 Hietzing",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 439000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 439000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 55.01,
+          "groundAreaSize": null,
+          "livingSpace": 55.01
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:28.060Z",
+        "lastModified": "2023-08-23T15:16:25.007Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/330/18b96038278447bb9d544ed86703673d/medium-jpeg/httpeostoprealatexportbpdb101161955a852308070647.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101161955a852308070647",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "330/18b96038278447bb9d544ed86703673d"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345768,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184525?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184525",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Wohnen an der Wiedner Hauptstraße!",
+        "description": "(test) (test)Das Haus Im hochwertigen Wohn- und Atelierhaus werden 42 Wohnungen und 15 \"Townhouses\" im Wohnungseigentum mit Freiflächen realisiert. Die Wohneinheiten haben ein bis vier Zimmer und Flächen von 30 bis 108 m2 und zeichnen sich durch hoch",
+        "location": {
+          "zip": "1050",
+          "subMunicipality": "Margareten",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1880734,
+          "longitude": 16.3533861,
+          "street": "Wiedner Hauptstraße",
+          "houseNumber": null,
+          "displayText": "1050 Margareten",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 364000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 364000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 38.61,
+          "groundAreaSize": null,
+          "livingSpace": 38.61
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:27.618Z",
+        "lastModified": "2023-08-23T15:16:19.898Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/455/099e16cd3064415388e44bc1d11f698f/medium-jpeg/httpeostoprealatexportbpdb101162506b542307171238.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101162506b542307171238",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "455/099e16cd3064415388e44bc1d11f698f"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345786,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184595?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184595",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Wohnen an der Wiedner Hauptstraße!",
+        "description": "(test) (test)Das Haus Im hochwertigen Wohn- und Atelierhaus werden 42 Wohnungen und 15 \"Townhouses\" im Wohnungseigentum mit Freiflächen realisiert. Die Wohneinheiten haben ein bis vier Zimmer und Flächen von 30 bis 108 m2 und zeichnen sich durch hoch",
+        "location": {
+          "zip": "1050",
+          "subMunicipality": "Margareten",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1880734,
+          "longitude": 16.3533861,
+          "street": "Wiedner Hauptstraße",
+          "houseNumber": null,
+          "displayText": "1050 Margareten",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 379900.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 379900.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 42.99,
+          "groundAreaSize": null,
+          "livingSpace": 42.99
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:35.121Z",
+        "lastModified": "2023-08-23T15:19:14.156Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/817/b08eb595dc4e4afd8d600e53175677d8/medium-jpeg/httpeostoprealatexportbpdb1011625076ce2307171238.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011625076ce2307171238",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "817/b08eb595dc4e4afd8d600e53175677d8"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345782,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184569?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184569",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Wohnen an der Wiedner Hauptstraße!",
+        "description": "(test) (test)Das Haus Im hochwertigen Wohn- und Atelierhaus werden 42 Wohnungen und 15 \"Townhouses\" im Wohnungseigentum mit Freiflächen realisiert. Die Wohneinheiten haben ein bis vier Zimmer und Flächen von 30 bis 108 m2 und zeichnen sich durch hoch",
+        "location": {
+          "zip": "1050",
+          "subMunicipality": "Margareten",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1880734,
+          "longitude": 16.3533861,
+          "street": "Wiedner Hauptstraße",
+          "houseNumber": null,
+          "displayText": "1050 Margareten",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 364900.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 364900.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 43.22,
+          "groundAreaSize": null,
+          "livingSpace": 43.22
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:33.568Z",
+        "lastModified": "2023-08-23T15:17:32.666Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/617/718f36f3006c4a11811afd87d148f3a4/medium-jpeg/httpeostoprealatexportbpdb101162506b542307171238.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb101162506b542307171238",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "617/718f36f3006c4a11811afd87d148f3a4"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345760,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184506?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184506",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "STOCK IM WEG - Modernes Wohnen zwischen Stadt und Grün!",
+        "description": "(test) (test)Unweit des Lainzer Tiergartens entsteht das zukunftsweisende Neubauprojekt \"STOCK IM WEG“ mit 41 hochwertigen Eigentumswohnungen, die individuellen Wohnbedürfnissen gerecht werden. Erschlossen über drei separate Stiegenhäuser werden auf",
+        "location": {
+          "zip": "1130",
+          "subMunicipality": "Hietzing",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.178541,
+          "longitude": 16.2529858,
+          "street": "Stock im Weg",
+          "houseNumber": null,
+          "displayText": "1130 Hietzing",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 319000.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 319000.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 44.65,
+          "groundAreaSize": null,
+          "livingSpace": 44.65
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:22.759Z",
+        "lastModified": "2023-08-23T15:15:47.355Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/721/bb384fd8a19d480db795820a5da875a2/medium-jpeg/httpeostoprealatexportbpdb1011619543192308070647.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011619543192308070647",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "721/bb384fd8a19d480db795820a5da875a2"
+        }
+      },
+      "owner": null,
+      "transient": null
+    },
+    {
+      "id": 345765,
+      "path": "https://estateagent.dev.bricbrac.at/expose/184509?utm_source=bazar.at&utm_medium=referral&utm_campaign=test_conversion&utm_content=184509",
+      "shop": "ESTATEAGENT",
+      "common": {
+        "category": {
+          "id": "REAL_ESTATE",
+          "name": "Immobilien"
+        },
+        "subCategory": {
+          "id": "FLAT",
+          "name": "Wohnungen"
+        },
+        "kind": {
+          "id": "COMMERCIAL",
+          "name": "Gewerblich"
+        },
+        "tradeType": {
+          "id": "OFFER",
+          "name": "Angebot"
+        },
+        "title": "Wohnen an der Wiedner Hauptstraße!",
+        "description": "(test) (test)Das Haus Im hochwertigen Wohn- und Atelierhaus werden 42 Wohnungen und 15 \"Townhouses\" im Wohnungseigentum mit Freiflächen realisiert. Die Wohneinheiten haben ein bis vier Zimmer und Flächen von 30 bis 108 m2 und zeichnen sich durch hoch",
+        "location": {
+          "zip": "1050",
+          "subMunicipality": "Margareten",
+          "municipality": "Wien",
+          "district": null,
+          "subCountry": "Wien",
+          "subCountryId": "109166:R:SUB_COUNTRY",
+          "countryCode": "AUT",
+          "country": "Österreich",
+          "latitude": 48.1880734,
+          "longitude": 16.3533861,
+          "street": "Wiedner Hauptstraße",
+          "houseNumber": null,
+          "displayText": "1050 Margareten",
+          "level": "SUB_MUNICIPALITY"
+        },
+        "price": {
+          "priceType": {
+            "id": "FIXED",
+            "name": "Fixpreis"
+          },
+          "price": 379900.0,
+          "oldPrice": null,
+          "deliveryPriceFrom": null
+        }
+      },
+      "specific": {
+        "category": "REAL_ESTATE",
+        "price": {
+          "buy": 379900.0,
+          "operationalCosts": null,
+          "rentNet": null,
+          "rentTotal": null,
+          "additional": null,
+          "price": null,
+          "perSquareMeter": null
+        },
+        "areas": {
+          "areaSize": 43.22,
+          "groundAreaSize": null,
+          "livingSpace": 43.22
+        },
+        "roomsCount": 2.0,
+        "section": null
+      },
+      "metaInformation": {
+        "created": "2023-08-23T13:57:26.577Z",
+        "lastModified": "2023-08-23T15:15:51.043Z",
+        "priceChangeDecrease3": false,
+        "noImages": false,
+        "giveAwayPrice": false,
+        "top": false,
+        "highlight": false,
+        "active": true,
+        "priceOnRequest": false,
+        "customCtaText": null,
+        "customCtaLongText": null,
+        "externalUrl": null,
+        "skipInquiry": false,
+        "reportable": true,
+        "layout": null
+      },
+      "flags": {
+        "licensed": false,
+        "controlledCategory": false
+      },
+      "image": {
+        "link": "https://asset.dev.bricbrac.at/868/192814727e9a416bb5ed5b43c180e40f/medium-jpeg/httpeostoprealatexportbpdb1011625022c62307171238.jpeg",
+        "processed": {
+          "title": "httpeostoprealatexportbpdb1011625022c62307171238",
+          "alt": null,
+          "domain": "https://asset.dev.bricbrac.at",
+          "path": "868/192814727e9a416bb5ed5b43c180e40f"
+        }
+      },
+      "owner": null,
+      "transient": null
+    }
+  ],
+  "pageable": {
+    "sort": [
+      {
+        "direction": "DESC",
+        "property": "sort.date",
+        "ignoreCase": false,
+        "nullHandling": "NATIVE",
+        "ascending": false,
+        "descending": true
+      }
+    ],
+    "offset": 0,
+    "pageNumber": 0,
+    "pageSize": 20,
+    "paged": true,
+    "unpaged": false
+  },
+  "filter": {
+    "shops": null,
+    "category": "REAL_ESTATE",
+    "subCategory": "FLAT",
+    "term": null,
+    "locationSuggestions": null,
+    "locationSubCountry": null,
+    "locationOtherCountries": null,
+    "priceChangeDecrease3": null,
+    "noImages": null,
+    "giveAwayPrice": null,
+    "story": null,
+    "ownerId": null,
+    "ownerTrusted": null,
+    "kind": null,
+    "tradeType": null,
+    "excludeAd": null,
+    "topRandomIds": [],
+    "ignoreTopRandom": null,
+    "ignoreSlidingContent": null,
+    "allShops": true,
+    "otherShops": null,
+    "mode": null,
+    "section": null,
+    "legalForm": null,
+    "price": null,
+    "pricePerSquareMeter": null,
+    "livingSpace": null,
+    "roomsCount": null,
+    "construction": null,
+    "equipments": null,
+    "openSpaces": null,
+    "vendor": null,
+    "additionalInfos": null,
+    "heatingType": null,
+    "_type": "real-estate"
+  },
+  "path": "/l/07-wo/s?allShops=true&page=0&size=20&sort=sort.date,desc",
+  "breadcrumbs": [
+    {
+      "title": "Immobilien",
+      "path": "/l/07-immobilien/c"
+    },
+    {
+      "title": "Wohnungen",
+      "path": "/l/07-wo/s"
+    }
+  ],
+  "metadata": {
+    "title": "Wohnungen kaufen, mieten, verkaufen und vermieten",
+    "description": "Finde Wohnungen von privat zu privat oder gewerblich",
+    "h1": "65 Wohnungen ",
+    "keywords": [
+      "Immobilien",
+      "Wohnungen"
+    ],
+    "zip": null,
+    "subCountry": null,
+    "ownerName": null
+  },
+  "timestamp": "2023-09-08T12:15:36.212505166Z",
+  "sort": "sort.date,desc",
+  "last": false,
+  "totalElements": 65,
+  "totalPages": 4,
+  "size": 20,
+  "number": 0,
+  "numberOfElements": 20,
+  "first": true,
+  "empty": false
+}
